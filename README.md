@@ -1,3 +1,2 @@
 # ToDoList
-ToDoList with React
-First learning
+ToDoList with React / First learning
